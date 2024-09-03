@@ -1,5 +1,19 @@
-# 💫 About Me:
-👋 ¡Hola! Soy Full Stack Developer 🧑‍💻<br>🚀 Experto en Frontend y Backend<br>Tecnologías: HTML, CSS, JavaScript, Vue.js, Nuxt.js, React, Next.js, PHP, Laravel<br>Habilidades: Desarrollo de aplicaciones web de alta calidad que mejoran la interacción del usuario y satisfacción.<br>💡 Lo que me define<br>🛠️ Código limpio: Enfoque en mantener un código limpio y eficiente.<br>💬 Empatía y Colaboración: Mi inteligencia emocional y capacidad de empatía me permiten trabajar de manera efectiva en equipo, comprendiendo las necesidades de los demás y fomentando un ambiente positivo.<br>🌍 Experiencia diversa: Desde pequeñas startups hasta proyectos independientes.<br>🌟 ¿Por qué trabajar conmigo?<br>📈 Resultados comprobados: Mejoro significativamente la satisfacción del usuario y el engagement.<br>🔄 Adaptabilidad: Me adapto y entrego valor en cualquier entorno.<br>🤝 Trabajo en equipo: Creo en la colaboración efectiva y en la construcción de relaciones sólidas para alcanzar objetivos comunes.
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<h1 align="center">Hola 👋, soy Ricardo Castelló</h1>
+<h3 align="center">Fullstack Web Developer🌟.</h3>
+
+### 👋 About Me:
+- 🧑‍💻 I'm a **Full Stack Developer** with expertise in **Frontend** and **Backend** technologies, including **HTML, CSS, JavaScript, Vue.js, Nuxt.js, React, Next.js, PHP, and Laravel**. 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🛠️ **Clean Code Enthusiast**: I focus on writing clean, efficient code that enhances user interaction and satisfaction.
+- 💬 **Empathy & Collaboration**: My emotional intelligence allows me to work effectively in teams, understanding others' needs and fostering a positive environment.
+- 🌍 **Diverse Experience**: From small startups to independent projects, I adapt and deliver value in various settings.
+- 📈 **Proven Results**: I have a track record of significantly improving user satisfaction and engagement.
+- 🤝 **Team Player**: I believe in effective collaboration and building strong relationships to achieve common goals.
+
 
 
 ## 🌐 Socials:
