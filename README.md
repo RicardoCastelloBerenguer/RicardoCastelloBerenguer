@@ -17,10 +17,10 @@
           <img src="/public/caseSnake.png" width="400" alt="CaseSnake">
         </a>
         <p>
-          <a href="https://case-snake.vercel.app/" target="_blank">
+          <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code">
           </a>
-          <a href="#" target="_blank">
+          <a href="https://case-snake.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/See%20Project-grey?style=for-the-badge&logo=javascript" alt="Go to project">
           </a>
         </p>
@@ -36,10 +36,10 @@
           <img src="/public/jetLink.webp" width="400" alt="CaseSnake">
         </a>
         <p>
-          <a href="https://jetlinkr.vercel.app/" target="_blank">
+          <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code">
           </a>
-          <a href="#" target="_blank">
+          <a href="https://jetlinkr.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/See%20Project-grey?style=for-the-badge&logo=javascript" alt="Go to project">
           </a>
         </p>
