@@ -7,6 +7,48 @@
 
 [**🌐 Visit My Web Portfolio**](https://ricardocastello.netlify.app/)
 
+## Ultimos Proyectos Realizados
+<table>
+  <tr>
+    <td width="504">
+      <h3 align="center">CaseSnake</h3>
+      <div align="center">
+        <a href="https://ricardocastello.netlify.app/#projects" target="_blank">
+          <img src="https://imgur.com/a/Z6LAx2b" width="400" alt="Curso Android Básico">
+        </a>
+        <p>
+          <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Código">
+          </a>
+          <a href="https://youtu.be/xJapH_46a8" target="_blank">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40" alt="YouTube">
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="584">
+      <h3 align="center">Arquitectura MVVM</h3>
+      <div align="center">
+        <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+          <img src="https://imgur.com/a/Z6LAx2b" width="490" alt="Arquitectura MVVM">
+        </a>
+        <p>
+          <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%930160-88ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Código">
+          </a>
+          <a href="https://youtu.be/hhhSMX18R3F" target="_blank">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=31FD71" alt="YouTube">
+          </a>
+        </p>
+        <p>
+          Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, aprendí a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 ### 👋 About Me:
 - 🧑‍💻 I'm a **Full Stack Developer** with expertise in **Frontend** and **Backend** technologies, including **HTML, CSS, JavaScript, Vue.js, Nuxt.js, React, Next.js, PHP, and Laravel**. 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
