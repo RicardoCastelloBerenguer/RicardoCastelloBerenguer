@@ -2,12 +2,13 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<h1 align="center">Hola 👋, soy Ricardo Castelló</h1>
+<h1 align="center">Hi,👋 I'm Ricardo Castelló </h1>
+<!-- <h1 align="center">Hola 👋, soy Ricardo Castelló</h1> -->
 <h3 align="center">Fullstack Web Developer🌟.</h3>
 
 [**🌐 Visit My Web Portfolio**](https://ricardocastello.netlify.app/)
 
-## Ultimos Proyectos Realizados
+## Last Projects 
 <table>
   <tr>
     <td width="504">
